@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! Nice to see you 😄
+![frieren][https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VmbnIybGExMDl3c2Z0Y3NhY2N0cTdqM28xZHc0eHNxMWZ6MjQ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w5OUkooGhQinVNkiTg/giphy.gif]
+
+Welcome to my profile!
+I'm Risky, statistics undergraduate with interest in data analytics and financial research
 
 <!--
 **risgunstat/risgunstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
