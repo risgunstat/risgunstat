@@ -3,8 +3,9 @@
 
 Welcome to my profile!
 I'm Risky, statistics undergraduate with interest in data analytics and financial research
-- 🔭 I’m currently working on thesis research
-- 🌱 I’m currently learning SQL & Python
+- 😴 My free time is always sleeping
+- 🔭 Currently working on financial thesis research
+- 🌱 Currently learning SQL & Python
 
 <!--
 **risgunstat/risgunstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
