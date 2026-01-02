@@ -1,8 +1,10 @@
 ## Hello! Nice to see you 😄
-![frieren](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VmbnIybGExMDl3c2Z0Y3NhY2N0cTdqM28xZHc0eHNxMWZ6MjQ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w5OUkooGhQinVNkiTg/giphy.gif)
+![frieren](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2llaWIxM25tYzgyaWs5dGlxbDhvZXg0eHRkeHp1b3R4cGh2emVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbS49vkzj9wn7khDHk/giphy.gif)
 
 Welcome to my profile!
 I'm Risky, statistics undergraduate with interest in data analytics and financial research
+- 🔭 I’m currently working on thesis research
+- 🌱 I’m currently learning SQL & Python
 
 <!--
 **risgunstat/risgunstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
